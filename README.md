@@ -11,6 +11,4 @@ This repository contains coursework projects completed for the Bayesian Data Ana
 
 - Modeled the effect of different insecticide treatments on caterpillar birth rates using Bayesian regression techniques to estimate treatment impact and uncertainty.
 
-## Coursework 3: Spatio-Temporal Modeling of Ozone
-
 - Developed a Bayesian spatio-temporal model using INLA and inlabru to analyze ground-level ozone concentrations across England and Wales, incorporating spatial structure (via SPDE) and year effects for public health insight.
