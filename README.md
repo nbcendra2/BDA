@@ -7,7 +7,7 @@ This repository contains coursework projects completed for the Bayesian Data Ana
 - **Rainfall in Edinburgh**: Fitted a Bayesian linear regression model using INLA to predict monthly rainfall based on temperature and windspeed.  
 - **Frog Call Clustering**: Applied Bayesian mixture models to Mel-frequency cepstral coefficients (MFCCs) from frog call audio to classify species based on acoustic features.
 
-## Coursework 2: Caterpillar Insecticide Study
+## Coursework 2: Insecticide Effects & Spatio-Temporal Ozone Modeling
 
 - Modeled the effect of different insecticide treatments on caterpillar birth rates using Bayesian regression techniques to estimate treatment impact and uncertainty.
 
